@@ -11,6 +11,6 @@ git pull: se trae los cambios de las otras personas
 
 Branch:  es una rama alterna al proyecto creada por el dueno
 
-Fork:  rama alterna creada por un colaborador
+Fork:  rama alterna creada por un colaborador +++++
 
 */
