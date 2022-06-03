@@ -13,4 +13,6 @@ Branch:  es una rama alterna al proyecto creada por el dueno
 
 Fork:  rama alterna creada por un colaborador
 
+con alterno+
+
 */
